@@ -7,4 +7,4 @@ Un blog increíble para el curso de Git y Github de Platzi.
 * El flujo de trabajo en Github
 * El verdadero amor por las buenas practicas
 
-y como un amable recordatorio: **Este readme.md es un chiste**. creado solo como ejemplo. Si llegas aca **NO LO TOMES ENCERIO**.
+y como un amable recordatorio: **Este readme.md es un chiste**. creado solo como ejemplo. Si llegas aca **NO LO TOMES ENSERIO**.
